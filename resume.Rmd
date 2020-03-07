@@ -1,0 +1,118 @@
+---
+title: Scarlett Winters' Resume"
+author: Scarlett Winters
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['css/custom_resume.css', 'css/styles.css', 'resume']
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(
+  results='asis', 
+  echo = FALSE
+)
+library(tidyverse)
+library(glue)
+library(rmarkdown)
+library(knitr)
+
+# Set this to true to have links turned into footnotes at the end of the document
+PDF_EXPORT <- TRUE
+
+# Holds all the links that were inserted for placement at the end
+links <- c()
+
+source('parsing_functions.R')
+
+
+# First let's get the data, filtering to only the items tagged as
+# Resume items
+position_data <- read_csv('positions.csv') %>% 
+  filter(in_resume) 
+```
+
+
+Aside
+================================================================================
+
+![Scarlett Winters](https://ca.slack-edge.com/T6AUCDC6S-UH6QWMCEM-ef453755d80c-512){width=80%}
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> winters.scarlett.e@gmail.com
+- <i class="fa fa-linkedin"></i> [/scarlett-winters](https://www.linkedin.com/in/scarlett-winters/)
+- <i class="fa fa-github"></i> [github.com/scarlett425](https://github.com/scarlett425)
+- <i class="fa fa-phone"></i> (312) 805-9540
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- SQL
+- Excel
+- Tableau
+- R
+- Python
+- Data visualization
+- Data presentation
+- Requirements analysis
+- Predictive analytics
+
+Fun Facts {#projects}
+--------------------------------------------------------------------------------
+
+- This resume was written using the pagedown package in R.
+
+- Board member for [R-Ladies Chicago](https://rladieschicago.org)
+
+- Former projects include: 
+  - A predictive analysis of Chicago crime data in Python
+  
+  - Python-based UI (Tkinter) to predict Kickstarter success
+
+- Pasttimes include Krav Maga, cooking, and finding new podcasts
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
+
+Source code: [github.com/nstrayer/cv](https://github.com/scarlett425/cv)
+
+Last updated on `r Sys.Date()`.
+
+Main
+================================================================================
+
+Scarlett Winters {#title}
+--------------------------------------------------------------------------------
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('education')
+```
+
+
+Projects {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+```{r}
+position_data %>% print_section('academic_achievements')
+```
+
+Positions {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+
+```{r}
+position_data %>% print_section('professional_experience')
+```
+
+
