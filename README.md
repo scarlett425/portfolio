@@ -4,7 +4,7 @@ Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Ta
 
 ## Breakdown of projects in chronological order:
 
-1. *Effect of Voter Identification Laws on Voter Turnout and Democratic Party Victories* presention at the [Southern Political Science Association conference on Friday, January 13th in New Orleans, LA](https://spsa.net/wp-content/uploads/2017/01/12.16.16.SPSA_.2017.Program.LR_.pdf)
+1. *Effect of Voter Identification Laws on Voter Turnout and Democratic Party Victories* presention at the [Southern Political Science Association conference on Friday, January 13th 2017 in New Orleans, LA](https://spsa.net/wp-content/uploads/2017/01/12.16.16.SPSA_.2017.Program.LR_.pdf)
   - File: **Winters - Southern Presentation.pptx**
 
 2. Chicago Divvy Bike Ridership Tableau dashboard: a study of Divvy roundtrips throughout Chicago: Spring 2018
