@@ -10,7 +10,7 @@ Welcome to my portfolio! This is a repo of projects worked on in R, Python, Tabl
 2. Chicago Divvy Bike Ridership Tableau dashboard: a study of Divvy roundtrips throughout Chicago: Spring 2018
   - File: **Chicago Divvy Bike Ridership.twbx**
 
-3. Python (Tkinter) UI and analysis of Kickstarter sucesses: Winter 2019
+3. Python (Tkinter) UI and analysis of Kickstarter successes: Winter 2019
   - File: **Kickstarter Analysis with Python.pptx**
 
 4. Python (scikitlearn, numpy) predictive analysis of Chicago crime trends based on weather patterns: Fall 2019
