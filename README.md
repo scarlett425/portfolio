@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! This is a repo of projects worked on in R, Python, Tableau, etc. You'll find PowerPoints of talks I've given and the code for the analyses when available.
+Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Tableau, etc. You'll find PowerPoints of talks I've given and the code for the analyses when available.
 
 ## Breakdown of projects in chronological order:
 
@@ -13,10 +13,10 @@ Welcome to my portfolio! This is a repo of projects worked on in R, Python, Tabl
 3. Python (Tkinter) UI and analysis of Kickstarter successes: Winter 2019
   - File: **Kickstarter Analysis with Python.pptx**
 
-4. Python (scikitlearn, numpy) predictive analysis of Chicago crime trends based on weather patterns: Fall 2019
+4. Python (scikit-learn, numpy, pandas) predictive analysis of Chicago crime trends based on weather patterns: Fall 2019
   - Files: **crime_weather_analyze.py** and **Chicago Crime.pptx**
 
-5. R geospatial analysis on global coastal waste: IN PROGRESS
+5. R geospatial analysis (tidyverse, janitor, purrr) on global coastal waste: IN PROGRESS
   - File: **CoastalWaste.R**
 
 6. Tableau analysis of 2015 Chicago batteries and thefts
