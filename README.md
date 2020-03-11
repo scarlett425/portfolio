@@ -13,7 +13,7 @@ Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Ta
 3. Python (Tkinter) UI and analysis of Kickstarter successes: Winter 2019
   - File: **Kickstarter Analysis with Python.pptx**
 
-4. Python (scikit-learn, numpy, pandas) predictive analysis of Chicago crime trends based on weather patterns: Fall 2019
+4. Python (scikit-learn, numpy, pandas) predictive analysis of 2018 Chicago crime trends based on weather patterns: Fall 2019
   - Files: **crime_weather_analyze.py** and **2018 Chicago Crime Analysis.pptx**
 
 5. R geospatial analysis (tidyverse, janitor, purrr) on global coastal waste: IN PROGRESS
