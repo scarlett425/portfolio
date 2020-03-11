@@ -25,5 +25,5 @@ Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Ta
 7. R (pagedown) resume: ONGOING
   - Files: **resume.Rmd** and **positions.csv**
 
-8. [Tutorial](https://docs.google.com/presentation/d/11IUbWg1UccnYdlKy60RwNWbjHZCy1XNb-YQ2X7DzG0g/edit#slide=id.p4) of R pagedown package given at [R-Ladies Chicago Meetup on February 26, 2020](https://www.meetup.com/rladies-chicago/events/268252477/)
+8. Tutorial of R pagedown package given at [R-Ladies Chicago Meetup on February 26, 2020](https://www.meetup.com/rladies-chicago/events/268252477/)
   - File: **2020-02-26-pagedown-tutorial.pptx**
