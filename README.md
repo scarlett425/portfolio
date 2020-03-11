@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Tableau, etc. You'll find PowerPoints of talks I've given and the code for the analyses when available.
+Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Tableau, etc. You'll find PowerPoints of talks I've given for both individual and team projects, as well as the code for the analyses when available.
 
 ## Breakdown of projects in chronological order:
 
