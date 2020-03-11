@@ -19,7 +19,7 @@ Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Ta
 5. R geospatial analysis (tidyverse, janitor, purrr) on global coastal waste: IN PROGRESS
   - File: **CoastalWaste.R**
 
-6. Tableau analysis of 2015 Chicago batteries and thefts
+6. Tableau analysis of 2015 Chicago batteries and thefts: Fall 2019
   - Files: **Crime Analysis Write-up.docx** and **Analysis.twbx**
 
 7. R (pagedown) resume: ONGOING
