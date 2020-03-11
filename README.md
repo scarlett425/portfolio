@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! This is a repo of projects I worked on in R, Python, Tableau, etc. You'll find PowerPoints of talks I've given for both individual and team projects, as well as the code for the analyses when available.
+Welcome to my portfolio! This is a repository "repo" of projects I worked on in R, Python, Tableau, etc. You'll find PowerPoints of talks I've given for both individual and team projects, as well as the code for the analyses when available. The pertinent files are bolded underneath each project description, and you can access the files by scrolling up and clicking on the file name. Once you've clicked on the file name, click on 'View Raw' to download PowerPoints, Tableau dashboards, and Word documents. Python and R code can be reviewed internally within the Github repo.
 
 ## Breakdown of projects in chronological order:
 
