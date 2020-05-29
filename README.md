@@ -20,7 +20,7 @@ Welcome to my portfolio! This is a repository "repo" of projects I worked on in 
   - File: **CoastalWaste.R**
 
 6. Tableau analysis of 2015 Chicago batteries and thefts: Fall 2019
-  - Files: **Crime Analysis Write-up.docx** and **Analysis.twbx**
+  - Files: **Analysis.twbx**
 
 7. R (pagedown) resume: ONGOING
   - Files: **resume.Rmd** and **positions.csv**
